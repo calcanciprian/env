@@ -9,7 +9,7 @@ env:
 jobs:
   test:
     env:
-      MONGODB_CLUSTER_ADDRESS: @cluster0.1a2kc.mongodb.net
+      MONGODB_CLUSTER_ADDRESS: cluster0.1a2kc.mongodb.net
       MONGODB_USERNAME: ccalcan
       MONGODB_PASSWORD: RAo2d9aPHJFquG4O
       PORT: 8080
